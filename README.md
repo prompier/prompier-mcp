@@ -78,11 +78,11 @@ dropped when blank.
 - A key stops working when its person leaves the workspace.
 - Treat a key like a password. Never commit it to a repository.
 
-To report a security problem, email <security contact address>.
+To report a security problem, email hello@prompier.com.
 
 ## Support
 
-Questions or problems: <support address> or [prompier.com](https://prompier.com).
+Questions or problems: hello@prompier.com or [prompier.com](https://prompier.com).
 
 ## License
 
